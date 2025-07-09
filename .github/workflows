@@ -1,0 +1,30 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * 0'  # Runs weekly (optional)
+
+jobs:
+  build-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub contribution snake images
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and push snake images
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update github contribution snake"
+          file_pattern: dist/
