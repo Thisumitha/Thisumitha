@@ -73,5 +73,6 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Thisumitha/Thisumitha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="./dist/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
