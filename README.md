@@ -2,20 +2,22 @@
 <h3 align="center">🚀 Full-Stack Developer | 🎓 MIT Student | 💼 Founder @ Tech Forge</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thisumitha-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="mailto:thisumithaofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Thisumitha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:thisumithaofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/thisumitha-bandara"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/thisumitha.bandara"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **a Tuition Management System**  
-- 🌱 Currently learning: `Microservices`, `Kubernetes`, and `AI integration`  
-- 💬 Ask me about: `Spring Boot`, `React`, `Node.js`, `WordPress`, `Facebook Ads`  
-- 👨‍🎓 I'm pursuing my **Masters in IT**  
-- ⚡ Fun fact: I started coding at age 17 and dream of starting my own **Tech Company** 💼
+- 🔭 Currently building: **Tuition Management System**
+- 🌱 Learning: `Microservices`, `Docker`, `AI`, `Firebase`
+- 💬 Ask me about: `Spring Boot`, `React`, `WordPress`, `Node.js`, `Facebook Ads`
+- 🎓 Masters in Information Technology (MIT)
+- 👨‍💻 2+ years experience as a Full-Stack Developer
+- ⚡ Fun fact: I aim to achieve financial freedom by 23 💸
 
 ---
 
@@ -23,41 +25,53 @@
 
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<a href="https://github.com/Thisumitha">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Thisumitha&show_icons=true&theme=radical&rank_icon=percentile&include_all_commits=true" />
+</a>
+<a href="https://github.com/Thisumitha">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thisumitha&layout=compact&theme=radical&langs_count=8" />
+</a>
+
+---
+
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisumitha-bandara&show_icons=true&theme=github_dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisumitha-bandara&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Thisumitha&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📂 Featured Projects
 
-- 🚀 [Tuition Management System](https://github.com/Thisumitha-Bandara/tuition-management)
-- 🌐 [React QR Attendance System](https://github.com/Thisumitha-Bandara/qr-attendance)
-- 💼 [Tech Forge Website](https://github.com/Thisumitha-Bandara/techforge-site)
+- 🎓 [Tuition Management System (Full Stack)](https://github.com/Thisumitha/tuition-management)
+- 📷 [QR Attendance System (React + Spring Boot)](https://github.com/Thisumitha/qr-attendance)
+- 🌐 [Tech Forge Website](https://github.com/Thisumitha/techforge-site)
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 Email: thisumithaofficial@gmail.com  
-- 📱 Facebook: [Thisumitha Bandara](https://facebook.com/thisumitha.bandara)
-- 💼 LinkedIn: [thisumitha-bandara](https://linkedin.com/in/thisumitha-bandara)
+- 📧 Email: [thisumithaofficial@gmail.com](mailto:thisumithaofficial@gmail.com)
+- 📱 Facebook: [facebook.com/thisumitha.bandara](https://facebook.com/thisumitha.bandara)
+- 💼 LinkedIn: [linkedin.com/in/thisumitha-bandara](https://linkedin.com/in/thisumitha-bandara)
 
 ---
 
-### 🔥 Fun & Extras
+### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Thisumitha-Bandara/Thisumitha-Bandara/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Thisumitha/Thisumitha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
